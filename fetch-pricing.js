@@ -2,7 +2,7 @@ const https = require('https');
 const fs = require('fs');
 const path = require('path');
 
-const NOTION_API_KEY = "YOUR_API_KEY";
+const NOTION_API_KEY = "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";
 const DATABASE_ID = "e899e308df1642d8828b457aac3e9cbf";
 const IMG_DIR = path.join(__dirname, 'images', 'fleet');
 
